@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "copy",
+            "type": "shell",
+            "command": "cp -r . /Applications/MAMP/htdocs/LaravelLinks/",
+            "problemMatcher": []
+        }
+    ]
+}
